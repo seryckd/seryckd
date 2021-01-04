@@ -12,5 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/seryckd?tab=repositories&q=topic%3Agame" target="_blank"><img alt="java" src="https://img.shields.io/badge/-games--repos-blueviolet?style=plastic&logo=GitHub&logoColor=white"></a>  
+  <a href="https://github.com/seryckd?tab=repositories&q=topic%3Agame" target="_blank"><img alt="games repos" src="https://img.shields.io/badge/-games--repos-blueviolet?style=plastic&logo=GitHub&logoColor=white"></a>  
+  <a href="https://github.com/seryckd?tab=repositories&q=topic%3Autility" target="_blank"><img alt="utility repo" src="https://img.shields.io/badge/-utility--repos-blueviolet?style=plastic&logo=GitHub&logoColor=white"></a>  
+  <a href="https://github.com/seryckd?tab=repositories&q=topic%3fun" target="_blank"><img alt="fun repos" src="https://img.shields.io/badge/-fun--repos-blueviolet?style=plastic&logo=GitHub&logoColor=white"></a>  
 </p>
